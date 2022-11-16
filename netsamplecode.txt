@@ -1,0 +1,7 @@
+cat and txt name will tell what are data inside the file....
+
+GIT LOG-> if you want to see alll the details that what you commit 
+
+git stash=-> if i dont want to loose any changes..
+
+git stash clear-> those changes are not commited get clear.
